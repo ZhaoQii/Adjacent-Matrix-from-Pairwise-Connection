@@ -6,7 +6,7 @@ Created on Wed May 31 13:37:16 2017
 """
 import os
 import pandas as pd
-
+import numpy as np
 
 os.chdir('F:\高铁子网络')    # set your work path here where the raw data file saved
 
